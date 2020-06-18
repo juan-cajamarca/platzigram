@@ -7,7 +7,7 @@ A Django-based Instagram replica.
 - Open virtual environment - `source <virtual_environment_path>/bin/activate`
 - Install Django - `pip install django -U`
 
-# Deployment
+## Deployment
 - Clone project
 - Run migrations - `python3 manage.py migrate`
 - Run server - `pythone3 manage.py runserver`
