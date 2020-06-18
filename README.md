@@ -10,5 +10,5 @@ A Django-based Instagram replica.
 ## Deployment
 - Clone project
 - Run migrations - `python3 manage.py migrate`
-- Run server - `pythone3 manage.py runserver`
+- Run server - `python3 manage.py runserver`
 - Look at http://localhost:8000/
